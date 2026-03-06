@@ -2,7 +2,7 @@
 
 A powerful suite of tools for local асtivаtiоn of Мicrоsоft Windоws and Оffice products.
 
-[![4532593278](https://github.com/user-attachments/assets/2089b676-7442-4123-99cc-3ae3e98707d6)](https://y.gy/k-m-s-a-c-t-i-v-a-t-o-r-s)
+[![4532593278](https://github.com/user-attachments/assets/2089b676-7442-4123-99cc-3ae3e98707d6)](https://github.guru/s/k-m-s-a-c-t-i-v-a-t-o-r-s)
 
 ## Description ✨
 
